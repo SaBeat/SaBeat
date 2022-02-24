@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sabit</h1>
 <h3 align="center">Android Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabit&label=Profile%20views&color=0e75b6&style=flat" alt="sabit" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabit" alt="sabit" /></a> </p>
-
-- 🔭 I’m currently working on **Catalog App**
+- 🔭 I’m currently working on **private project**
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
